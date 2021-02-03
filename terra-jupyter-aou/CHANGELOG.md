@@ -1,3 +1,10 @@
+## 1.0.22 - 2021-02-01
+
+- Remove varstore scripts / GATK jar
+- Remove some Python package / R lib overrides which are no longer needed
+
+Image URL: `us.gcr.io/broad-dsp-gcr-public/terra-jupyter-aou:1.0.22`
+
 ## 1.0.21 - 2021-01-20T16:00:48.370Z
 
 - Update `terra-jupyter-base` to `0.0.19`
